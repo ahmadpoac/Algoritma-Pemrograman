@@ -1,3 +1,5 @@
+1// Latihan Perhitungan Gaji
+
 <?php
 $gaji = 8000000;
 $pajak = 0.1;

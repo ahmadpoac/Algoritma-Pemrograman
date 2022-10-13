@@ -1,3 +1,4 @@
+// Latihan Variabel
 #include <stdio.h>
 #include <conio.h>
 
